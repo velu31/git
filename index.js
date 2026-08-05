@@ -5,5 +5,5 @@ console.log("This is git course...")
 // this is feature branch2.0
 
 for(let i=0; i<10; i++){
-    console.log("bug branch")
+    console.log("main branch")
 }
